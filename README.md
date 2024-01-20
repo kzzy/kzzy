@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there, I'm Austin! 👋
+#### 🎓 Recently graduated from UVic 
+
+#### 🌱 You'll find some projects I have worked on to learn new things or have caught my eye out of interest
+
+#### 🚀 Currently, I'm learning Vue and Django
 
 <!--
 **kzzy/kzzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
